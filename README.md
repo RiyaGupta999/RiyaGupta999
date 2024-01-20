@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">Hi 👋, I'm Riya Gupta</h1>
 <h3 align="center">A curious and ambivert front-end developer. And when I am not developing I choose to take the blue pill</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal999code&label=Profile%20views&color=0e75b6&style=flat" alt="vishal999code" /> </p>
